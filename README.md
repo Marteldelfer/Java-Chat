@@ -16,3 +16,4 @@ A real time chat aplication using java, springboot and some javascript. This app
 
 1. Download the project, either via git clone or using the zip
 2. Run chat-project/src/main/java/com/marteldelfer/chat_project/ChatProjectApplication.java
+3. Type the url localhost:8080 on your browser
